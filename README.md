@@ -2,38 +2,51 @@
 
 # 👋 Hi, I'm Oludemi Joshua
 
-### Cybersecurity Engineer | Blue Team Junior Analyst | Founder of HEX WATCH | Building an AI-Native Security Operations Platform | Full Stack Developer.
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+an+AI-Powered+SOC+Platform;Threat+Detection+%7C+SOAR+Automation;FastAPI+%7C+React+%7C+PostgreSQL;Always+Learning+Something+New" />
+### Cybersecurity | Blue Team | Cloud Security | Full-Stack Security Engineering
+
+Building practical cybersecurity projects across **SOC Operations, Detection Engineering, Cloud Security, Network Security, and Security Automation.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+HEX+WATCH+%7C+AI-Native+SOC+Platform;Cloud+Security+%7C+Detection+Engineering;Azure+%7C+Microsoft+Sentinel+%7C+Bicep;Python+%7C+FastAPI+%7C+PowerShell;Always+Learning.+Always+Building." />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🛡️ About Me
 
-I'm a cybersecurity student passionate about building enterprise-grade security tools.
+I'm a cybersecurity student focused on building **hands-on security projects** rather than learning only through theory.
 
-Currently developing **HexWatch**, an AI-powered Security Operations Center (SOC) platform designed to help analysts detect, prioritize, and respond to threats more efficiently.
+My current focus is **Blue Team and SOC engineering**, with practical work across cloud security, network security, Windows/Active Directory, detection engineering, security automation, and infrastructure-as-code.
 
-- 🔭 Building **HexWatch AI SOC**
-- 🌱 Learning **React, FastAPI, Docker, PostgreSQL, Python, SIEM, SOAR **
-- 🛡 Interested in **Blue Teaming, SIEM, SOAR, AI Security, Detection Engineering**
-- 🎯 Goal: Build security products used by organizations worldwide
+I'm also building **HEX WATCH**, an AI-native Security Operations platform exploring how automation and AI can help security analysts investigate and respond to threats more efficiently.
+
+### 🔭 Currently Building
+
+**HEX WATCH** — AI-Native Security Operations Platform
+
+A security platform I'm developing to explore:
+
+- Security event ingestion
+- Threat detection
+- Alert correlation
+- Incident management
+- Security automation
+- AI-assisted investigation
+- SOC workflows
+
+> HEX WATCH is an ongoing project and is being developed incrementally as I expand my skills in security engineering and software development.
 
 ---
 
-## 💻 Terminal
+## 🎯 Current Focus
 
-```bash
-visitor@github:~$ cat about_me.txt
-
-Name      : Oludemi Joshua
-Role      : Cybersecurity Student
-Project   : HexWatch AI SOC Platform
-Focus      : SIEM | SOAR | Threat Detection | AI
-Learning  : React • FastAPI • PostgreSQL Python • SIEM • SOAR •
-Status    : Building every day
-
-Mission:
-Create an enterprise-grade AI SOC platform that
-helps analysts investigate threats faster.
+```text
+🛡️ Blue Team & SOC
+🔎 Detection Engineering
+☁️ Cloud Security
+🌐 Network Security
+⚙️ Security Automation
+🪟 Windows & Active Directory
+🐍 Python for Security
+🏗️ Infrastructure as Code
+🤖 AI + Cybersecurity
