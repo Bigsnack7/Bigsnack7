@@ -58,6 +58,6 @@ A security platform I'm developing to explore:
 
 <div align="center">
 
-[![Bigsnack7's Activity Graph](https://vercel.app)](https://github.com)
+<img src="https://vercel.app" alt="Bigsnack7's Activity Graph" width="850" />
 
 </div>
