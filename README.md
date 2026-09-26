@@ -58,6 +58,6 @@ A security platform I'm developing to explore:
 
 <div align="center">
 
-![Repobeats analytics image](https://repobeats.axiom.co/api/embed/e41dcdb93469c26c18304b5930ef10e236673eba.svg)
+![Alt](https://repobeats.axiom.co/api/embed/9717d55fa191df6113bb6606050a69e872f0872d.svg "Repobeats analytics image")
 
 </div>
