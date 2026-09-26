@@ -50,3 +50,14 @@ A security platform I'm developing to explore:
 🐍 Python for Security
 🏗️ Infrastructure as Code
 🤖 AI + Cybersecurity
+```
+
+---
+
+## 📊 Activity Metrics
+
+<div align="center">
+
+[![Bigsnack7's Activity Graph](https://vercel.app)](https://github.com)
+
+</div>
