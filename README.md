@@ -58,6 +58,6 @@ A security platform I'm developing to explore:
 
 <div align="center">
 
-<img src="https://vercel.app" alt="Bigsnack7's GitHub Stats" height="195" />
+![Repobeats analytics image](https://repobeats.axiom.co/api/embed/e41dcdb93469c26c18304b5930ef10e236673eba.svg)
 
 </div>
