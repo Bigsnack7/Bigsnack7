@@ -54,10 +54,8 @@ A security platform I'm developing to explore:
 
 ---
 
-## 📊 Activity Metrics
-
 <div align="center">
 
-![Alt](https://repobeats.axiom.co/api/embed/9717d55fa191df6113bb6606050a69e872f0872d.svg "Repobeats analytics image")
+<img src="docs/assets/meditating-person.svg" width="500" alt="Person meditating">
 
 </div>
