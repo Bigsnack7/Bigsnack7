@@ -53,5 +53,6 @@ A security platform I'm developing to explore:
 ```
 
 ---
-
+<div align="center">
 <img src="Docs/assets/meditating-person.svg" width="500" alt="Person meditating">
+</div>
