@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Oludemi Joshua
 
-### Cybersecurity | Blue Team | Cloud Security | Full-Stack Security Engineering
+### Cybersecurity Engineer | Blue Team | Cloud Security | Security Automation
 
-Building practical cybersecurity projects across **SOC Operations, Detection Engineering, Cloud Security, Network Security, and Security Automation.**
+Building practical security projects across **SOC Engineering, Cloud Security, Detection Engineering, Network Security, Identity & Access Management, and Security Automation.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+HEX+WATCH+%7C+AI-Native+SOC+Platform;Cloud+Security+%7C+Detection+Engineering;Azure+%7C+Microsoft+Sentinel+%7C+KQL;Python+%7C+FastAPI+%7C+PowerShell;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+HEX+WATCH+%7C+AI-Native+SOC+Platform;Azure+%7C+Microsoft+Sentinel+%7C+KQL;Blue+Team+%7C+Detection+Engineering;PowerShell+%7C+Python+%7C+FastAPI;Cloud+Security+%7C+Network+Security;Always+Learning.+Always+Building." />
 
 </div>
 
@@ -14,69 +14,224 @@ Building practical cybersecurity projects across **SOC Operations, Detection Eng
 
 ## 🛡️ About Me
 
-I'm a cybersecurity student focused on building **hands-on security projects** rather than learning only through theory.
+I'm a cybersecurity-focused builder interested in **Blue Team operations, cloud security, detection engineering, security automation, and secure software development**.
 
-My current focus is **Blue Team and SOC engineering**, with practical work across cloud security, network security, Windows/Active Directory, detection engineering, security automation, and cryptography.
+I enjoy turning what I learn into practical labs and security projects — from building Azure honeypot environments and analyzing attack telemetry to automating Active Directory operations and developing security-focused applications.
+
+My approach is simple:
+
+> **Learn → Build → Test → Document → Improve**
+
+I'm currently developing my skills toward roles in **Cybersecurity, SOC/Blue Team, Cloud Security, Security Engineering, and DevSecOps.**
 
 ---
 
 ## 🔭 Currently Building
 
-**HEX WATCH**: AI-Native Security Operations Platform
+### 🛡️ HEX WATCH — AI-Native Security Operations Platform
 
-A security platform I'm developing to explore:
+HEX WATCH is an ongoing security engineering project exploring how modern SOC workflows can be combined with automation and AI-assisted analysis.
+
+Current areas of development include:
 
 - Security event ingestion
 - Threat detection
 - Alert correlation
 - Incident management
+- Investigation workflows
 - Security automation
-- AI-assisted investigation
-- SOC workflows
+- AI-assisted security analysis
+- SOC workflow design
 
-> HEX WATCH is an ongoing project, developed incrementally as I expand my skills in security engineering and software development.
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it demonstrates | Tech |
-|---|---|---|
-| ☁️ **Azure Honeypot SOC Lab V2** | Live honeypot, attack telemetry, detection queries, and analysis of attack-source countries | Azure, Microsoft Sentinel, Log Analytics, KQL |
-| 🔐 **Hex Watch Cipher** | Browser-based encryption app: AES-256-GCM, RSA hybrid encryption, file encryption, privacy lock. All crypto runs locally in the browser. [Live demo](#) | JavaScript, Web Crypto API |
-| 🪟 **Active Directory Automation Toolkit** | Account lifecycle management and automation | PowerShell |
-| 👥 **ActiveDirectory-Provisioner** | Bulk provisioning, auditing, rollback, and access management | PowerShell |
-| 🌐 **Enterprise Network (Cisco Packet Tracer)** | Segmented enterprise network with redundancy and traffic control | VLANs, OSPF, HSRP, EtherChannel, ACLs, NAT |
+> HEX WATCH is an evolving project. Features are developed incrementally as I expand my knowledge in cybersecurity, software engineering, and cloud security.
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Featured Security Projects
 
-| Area | Details |
-|---|---|
-| 🛡️ Blue Team & SOC | Monitoring, triage, investigation |
-| 🔎 Detection Engineering | KQL queries, Sentinel analytics |
-| ☁️ Cloud Security | Azure |
-| 🌐 Network Security | Routing, switching, ACLs, NAT |
-| 🪟 Windows & Active Directory | Identity and access management |
-| 🐍 Python for Security | Automation, FastAPI |
-| 🔑 Applied Cryptography | AES, RSA, secure key handling |
-| 🤖 AI + Cybersecurity | AI-assisted investigation |
+### ☁️ Azure Honeypot SOC Lab V2
+
+A cloud-based security lab designed to generate and analyze real-world attack telemetry.
+
+**What I worked with:**
+
+- Azure infrastructure
+- Microsoft Sentinel
+- Log Analytics
+- KQL
+- Data Collection Rules
+- Windows telemetry
+- Linux honeypots
+- Attack-source analysis
+- Security monitoring
+
+**Focus:** Cloud Security • SOC Operations • Detection • Threat Analysis
 
 ---
 
-## 📜 Certifications
+### 🔐 Hex Watch Cipher
 
-- 🎯 Working toward: **Microsoft SC-900**, **CompTIA Security+**
+A browser-based cryptography application built around **client-side encryption and privacy-focused design**.
+
+**Features include:**
+
+- AES-256-GCM encryption
+- AES-256-CBC + HMAC-SHA-256
+- RSA-OAEP hybrid encryption
+- File encryption
+- Password-based key derivation
+- Workspace/session locking
+- Security configuration controls
+- Local browser-based cryptographic operations
+- Built-in calculator and security-focused UI
+
+**Technology:** JavaScript • Web Crypto API • HTML • CSS
+
+> Cryptographic operations are performed locally in the browser rather than sending plaintext data to a backend server.
 
 ---
 
-## 📫 Connect
+### 🪟 Active Directory PowerShell Automation Toolkit
 
-- GitHub: [@Bigsnack7](https://github.com/Bigsnack7)
-- Email: j2466447@gmail.com
-- LinkedIn: [Oludemi Joshua](https://www.linkedin.com/in/oludemi-joshua-b6b59141b)
+A PowerShell-based toolkit for automating and managing Active Directory lab environments.
+
+**Focus areas:**
+
+- User provisioning
+- Account lifecycle management
+- Department-based organization
+- Administrative delegation
+- Auditing
+- Reporting
+- Controlled destructive operations
+- `-WhatIf` / `-Confirm` safety controls
+- Structured operation logging
+- Credential protection
+
+**Technology:** PowerShell • Active Directory • JSONL • CSV • Windows Server
+
 ---
+
+### 🌐 Enterprise Network Security Lab
+
+A large Cisco Packet Tracer enterprise network designed around segmentation, redundancy, routing, and access control.
+
+**Implemented concepts include:**
+
+- VLAN segmentation
+- Inter-VLAN routing
+- OSPF
+- HSRP
+- EtherChannel
+- STP
+- DHCP relay
+- ACLs
+- NAT
+- SSH
+- Wireless networking
+- VoIP
+
+**Focus:** Network Engineering • Network Security • Infrastructure
+
+---
+
+## 🧰 Security & Engineering Stack
+
+### 🛡️ Cybersecurity
+`Blue Team` `SOC` `Detection Engineering` `Security Monitoring` `Threat Analysis` `Vulnerability Management` `OSINT` `Digital Forensics`
+
+### ☁️ Cloud & Security Operations
+`Microsoft Azure` `Microsoft Sentinel` `Log Analytics` `KQL` `Bicep`
+
+### 🪟 Windows & Identity
+`Windows Server` `Active Directory` `PowerShell` `Group Policy` `IAM`
+
+### 🌐 Networking
+`TCP/IP` `VLANs` `OSPF` `HSRP` `STP` `EtherChannel` `ACLs` `NAT` `SSH`
+
+### 🐍 Development & Automation
+`Python` `FastAPI` `JavaScript` `REST APIs` `PowerShell` `Git` `Docker`
+
+### 🔐 Applied Cryptography
+`AES-256-GCM` `AES-256-CBC` `HMAC-SHA-256` `RSA-OAEP` `PBKDF2` `Web Crypto API`
+
+---
+
+## 📚 Certifications & Learning
+
+### 🎯 Currently Preparing
+
+- **Microsoft SC-900 — Security, Compliance, and Identity Fundamentals**
+- **CompTIA Security+**
+- **Comptia SECAI+**
+
+### 📜 Completed Training & Learning
+
+- Cisco Networking & Cybersecurity coursework
+- Cisco Python Essentials
+- Cisco Networking Basics
+- Ethical Hacking Essentials
+- Centri Blue Team Junior Analyst pathway
+- Vulnerability Management
+- Threat Hunting fundamentals
+- Digital Forensics
+- OSINT
+- Dark Web Operations
+
+---
+
+## 📈 What I'm Currently Improving
+
+I'm continuously developing practical experience in:
+
+- SOC workflows and alert triage
+- Detection engineering
+- KQL
+- Microsoft Sentinel
+- Azure security
+- Network security
+- Windows security
+- Active Directory
+- Python security automation
+- Secure application development
+- DevSecOps practices
+
+---
+
+## 🎯 Career Direction
+
+I'm interested in opportunities around:
+
+**Cybersecurity Analyst • Junior SOC Analyst • Blue Team • Cloud Security • Security Engineering • Security Automation • DevSecOps**
+
+My goal is to build security solutions that combine **infrastructure, automation, software engineering, and cybersecurity.**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Bigsnack7">
+<img src="https://img.shields.io/badge/GitHub-Bigsnack7-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/oludemi-joshua-b6b59141b/">
+<img src="https://img.shields.io/badge/LinkedIn-Oludemi%20Joshua-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:j2466447@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
 <div align="center">
+
+### 🧠 Learn. Build. Secure. Improve.
+
 <img src="Docs/assets/meditating-person.svg" width="500" alt="Person meditating">
+
 </div>
