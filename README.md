@@ -220,7 +220,7 @@ My goal is to build security solutions that combine **infrastructure, automation
 <img src="https://img.shields.io/badge/LinkedIn-Oludemi%20Joshua-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:j2466447@gmail.com">
+<a href="mailto:youngfrezy16@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
