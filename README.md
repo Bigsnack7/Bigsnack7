@@ -157,7 +157,7 @@ A large Cisco Packet Tracer enterprise network designed around segmentation, red
 
 ---
 
-## 📚 Certifications & Learning
+## 📚 Professional Certifications & Learning
 
 ### 🎯 Currently Preparing
 
@@ -177,6 +177,7 @@ A large Cisco Packet Tracer enterprise network designed around segmentation, red
 - Digital Forensics
 - OSINT
 - Dark Web Operations
+- Bsc Cybersecurity
 
 ---
 
