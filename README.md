@@ -167,7 +167,7 @@ A large Cisco Packet Tracer enterprise network designed around segmentation, red
 
 ### 📜 Completed Training & Education
 
-- Bsc Cybersecurity
+- Bsc Cybersecurity < 2:1 >
 - Cisco Python Essentials
 - Cisco Networking Basics
 - Ethical Hacking Essentials
