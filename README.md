@@ -165,19 +165,18 @@ A large Cisco Packet Tracer enterprise network designed around segmentation, red
 - **CompTIA Security+**
 - **Comptia SECAI+**
 
-### 📜 Completed Training & Learning
+### 📜 Completed Training & Education
 
-- Cisco Networking & Cybersecurity coursework
+- Bsc Cybersecurity
 - Cisco Python Essentials
 - Cisco Networking Basics
 - Ethical Hacking Essentials
-- Centri Blue Team Junior Analyst pathway
+- Blue Team Junior Analyst
 - Vulnerability Management
-- Threat Hunting fundamentals
+- Threat Hunting
 - Digital Forensics
 - OSINT
 - Dark Web Operations
-- Bsc Cybersecurity
 
 ---
 
