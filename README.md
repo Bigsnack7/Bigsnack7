@@ -289,7 +289,7 @@ infrastructure configuration, segmentation, and network security concepts.
 
 ### 🎓 Academic Background
 
-BSc Cybersecurity — In Progress
+BSc Cybersecurity 
 
 ---
 
