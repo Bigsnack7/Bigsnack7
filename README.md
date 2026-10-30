@@ -4,15 +4,19 @@
 
 ### Cybersecurity | Blue Team | Cloud Security | Security Automation
 
-Building practical security solutions across **SOC Operations, Cloud Security, 
-Identity & Access Management, Network Security, and Security Engineering.**
+Building practical security solutions across **SOC Operations, Cloud Security, Identity & Access Management, Network Security, and Security Engineering.**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+HEX+WATCH+%7C+AI-Native+SOC+Platform;Azure+%7C+Microsoft+Sentinel+%7C+KQL;Active+Directory+%7C+PowerShell+Automation;Blue+Team+%7C+Cloud+Security;Python+%7C+FastAPI+%7C+Security+Engineering;Learn.+Build.+Test.+Improve." />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bigsnack7-181717?style=for-the-badge&logo=github)](https://github.com/Bigsnack7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oludemi-joshua-b6b59141b/)
+<a href="https://github.com/Bigsnack7">
+<img src="https://img.shields.io/badge/GitHub-Bigsnack7-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/oludemi-joshua-b6b59141b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 </div>
 
@@ -20,9 +24,7 @@ Identity & Access Management, Network Security, and Security Engineering.**
 
 ## 🛡️ About Me
 
-I'm a cybersecurity-focused builder passionate about understanding 
-how infrastructure works, how security threats operate, and how 
-technology can be used to build more secure systems.
+I'm a cybersecurity-focused builder passionate about understanding how infrastructure works, how security threats operate, and how technology can be used to build more secure systems.
 
 My interests span:
 
@@ -34,16 +36,13 @@ My interests span:
 - Security Automation and Scripting
 - Secure Application Development
 
-I enjoy turning technical concepts into practical projects, 
-building environments, testing implementations, troubleshooting 
-problems, and documenting what I learn.
+I enjoy turning technical concepts into practical projects, building environments, testing implementations, troubleshooting problems, and documenting what I learn.
 
 My development philosophy:
 
 > **Learn → Build → Test → Document → Improve**
 
-I'm continuously developing my practical skills toward opportunities 
-in cybersecurity, SOC operations, cloud security, and security engineering.
+I'm continuously developing my practical skills toward opportunities in cybersecurity, SOC operations, cloud security, and security engineering.
 
 ---
 
@@ -52,15 +51,14 @@ in cybersecurity, SOC operations, cloud security, and security engineering.
 <div align="center">
 
 # 🛡️ HEX WATCH
+
 ### AI-Native Security Operations Platform
 
 **Building an evolving SOC engineering platform.**
 
 </div>
 
-HEX WATCH is an ongoing security engineering project exploring 
-how security monitoring, threat detection, incident workflows, 
-automation, and AI-assisted analysis can work together.
+HEX WATCH is an ongoing security engineering project exploring how security monitoring, threat detection, incident workflows, automation, and AI-assisted analysis can work together.
 
 ### Areas of Development
 
@@ -75,8 +73,7 @@ automation, and AI-assisted analysis can work together.
 
 **Technology:** Python • FastAPI • JavaScript • React • Security Automation
 
-> HEX WATCH is actively being developed. Features are implemented 
-> and validated incrementally as the platform evolves.
+> HEX WATCH is actively being developed. Features are implemented and validated incrementally as the platform evolves.
 
 ---
 
@@ -86,9 +83,7 @@ automation, and AI-assisted analysis can work together.
 
 **Cloud Security | Microsoft Sentinel | Infrastructure as Code**
 
-A cloud-based security monitoring environment built to simulate 
-exposed infrastructure, collect attack telemetry, and investigate 
-suspicious activity.
+A cloud-based security monitoring environment built to simulate exposed infrastructure, collect attack telemetry, and investigate suspicious activity.
 
 **Implemented Components:**
 
@@ -106,12 +101,11 @@ suspicious activity.
 - MITRE ATT&CK mapping
 - Threat intelligence enrichment
 
-**Technical Focus:**
+**Technology:**
 
 `Azure` `Bicep` `GitHub Actions` `Microsoft Sentinel` `KQL` `Sysmon`
 
-**What this demonstrates:** Cloud infrastructure deployment, 
-security telemetry collection, monitoring, and investigation workflows.
+**What this demonstrates:** Cloud infrastructure deployment, security telemetry collection, monitoring, and investigation workflows.
 
 ---
 
@@ -119,9 +113,7 @@ security telemetry collection, monitoring, and investigation workflows.
 
 **Active Directory | PowerShell | Identity & Access Management**
 
-A PowerShell-based Active Directory administration and automation 
-toolkit designed to simplify identity lifecycle operations while 
-incorporating operational safeguards and auditability.
+A PowerShell-based Active Directory administration and automation toolkit designed to simplify identity lifecycle operations while incorporating operational safeguards and auditability.
 
 **Implemented Capabilities:**
 
@@ -150,7 +142,7 @@ incorporating operational safeguards and auditability.
 **Testing and Validation:**
 
 - Tested against a Windows Server Active Directory environment.
-- Successfully executed the toolkit's scripts.
+- Successfully executed all toolkit scripts.
 - Tested execution safeguards and preview behaviour.
 - Documented script-level testing evidence with GitHub screenshots.
 
@@ -158,10 +150,15 @@ incorporating operational safeguards and auditability.
 
 `PowerShell` `Active Directory` `Windows Server` `JSONL` `CSV`
 
-**What this demonstrates:** Windows administration, IAM concepts, 
-PowerShell automation, operational safety, and security-conscious scripting.
+**What this demonstrates:** Windows administration, IAM concepts, PowerShell automation, operational safety, and security-conscious scripting.
 
-[View AD_PS-automation Repository](https://github.com/Bigsnack7/AD_PS-automation)
+<div align="center">
+
+<a href="https://github.com/Bigsnack7/AD_PS-automation">
+<img src="https://img.shields.io/badge/Explore-AD--PS--automation-7C3AED?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
@@ -169,21 +166,21 @@ PowerShell automation, operational safety, and security-conscious scripting.
 
 **Applied Cryptography | Secure Application Development**
 
-A browser-based cryptography application designed around 
-client-side encryption, privacy, and secure handling of data.
+A browser-based cryptography application designed around client-side encryption, privacy, and secure handling of data.
 
 **Implemented Features:**
 
 - AES-256-GCM authenticated encryption
 - AES-256-CBC with HMAC-SHA-256
 - RSA-OAEP hybrid encryption
-- PBKDF2-SHA-256 key derivation
+- PBKDF2-SHA-256 key derivation (600,000 iterations)
 - File encryption
 - Message encryption
 - Cryptographic digest verification
 - Workspace and session locking
 - Security configuration controls
 - Browser-based cryptographic operations
+- Built-in calculator and security-focused interface
 
 **Technology:**
 
@@ -191,12 +188,17 @@ client-side encryption, privacy, and secure handling of data.
 
 **Security Approach:**
 
-Cryptographic operations are designed to run locally in the 
-browser, avoiding the need to transmit plaintext data to a backend 
-server.
+Cryptographic operations are designed to run locally in the browser, avoiding the need to transmit plaintext data to a backend server.
 
-**What this demonstrates:** Applied cryptography, browser security, 
-secure application development, and privacy-focused engineering.
+**What this demonstrates:** Applied cryptography, browser security, secure application development, and privacy-focused engineering.
+
+<div align="center">
+
+<a href="https://github.com/Bigsnack7/hex-watch-cipher">
+<img src="https://img.shields.io/badge/Explore-HEX%20WATCH%20CIPHER-7C3AED?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
@@ -204,8 +206,7 @@ secure application development, and privacy-focused engineering.
 
 **Network Engineering | Infrastructure | Network Security**
 
-A simulated enterprise network environment designed to explore 
-network segmentation, routing, redundancy, and infrastructure security.
+A simulated enterprise network environment designed to explore network segmentation, routing, redundancy, and infrastructure security.
 
 **Implemented Networking Concepts:**
 
@@ -226,8 +227,7 @@ network segmentation, routing, redundancy, and infrastructure security.
 
 `Cisco Packet Tracer` `TCP/IP` `Routing` `Switching`
 
-**What this demonstrates:** Enterprise network design, 
-infrastructure configuration, segmentation, and network security concepts.
+**What this demonstrates:** Enterprise network design, infrastructure configuration, segmentation, and network security concepts.
 
 ---
 
@@ -235,34 +235,27 @@ infrastructure configuration, segmentation, and network security concepts.
 
 ### 🛡️ Cybersecurity
 
-`Blue Team` `SOC Operations` `Security Monitoring` 
-`Threat Analysis` `Vulnerability Management` 
-`OSINT` `Digital Forensics` `Incident Response Concepts`
+`Blue Team` `SOC Operations` `Security Monitoring` `Threat Analysis` `Vulnerability Management` `OSINT` `Digital Forensics`
 
 ### ☁️ Cloud Security
 
-`Microsoft Azure` `Microsoft Sentinel` 
-`Log Analytics` `KQL` `Bicep` `Cloud Monitoring`
+`Microsoft Azure` `Microsoft Sentinel` `Log Analytics` `KQL` `Bicep` `Cloud Monitoring`
 
 ### 🪟 Windows & Identity Management
 
-`Windows Server` `Active Directory` `PowerShell` 
-`Group Policy` `IAM` `Account Lifecycle Management`
+`Windows Server` `Active Directory` `PowerShell` `Group Policy` `IAM` `Account Lifecycle Management`
 
 ### 🌐 Networking
 
-`TCP/IP` `VLANs` `OSPF` `HSRP` `STP` 
-`EtherChannel` `ACLs` `NAT` `SSH`
+`TCP/IP` `VLANs` `OSPF` `HSRP` `STP` `EtherChannel` `ACLs` `NAT` `SSH`
 
 ### 🐍 Programming & Automation
 
-`Python` `PowerShell` `JavaScript` 
-`FastAPI` `REST APIs` `Git` `Docker`
+`Python` `PowerShell` `JavaScript` `FastAPI` `REST APIs` `Git` `Docker`
 
 ### 🔐 Applied Cryptography
 
-`AES-256-GCM` `AES-CBC` `HMAC-SHA-256` 
-`RSA-OAEP` `PBKDF2` `Web Crypto API`
+`AES-256-GCM` `AES-CBC` `HMAC-SHA-256` `RSA-OAEP` `PBKDF2` `Web Crypto API`
 
 ---
 
@@ -289,7 +282,7 @@ infrastructure configuration, segmentation, and network security concepts.
 
 ### 🎓 Academic Background
 
-BSc Cybersecurity 
+BSc Cybersecurity — In Progress
 
 ---
 
@@ -323,9 +316,7 @@ I'm interested in opportunities across:
 - Junior Systems Administration
 - Security Automation
 
-My long-term direction is to develop into a cybersecurity 
-professional who understands the intersection of **infrastructure, 
-security operations, cloud technologies, and software engineering.**
+My long-term direction is to develop into a cybersecurity professional who understands the intersection of **infrastructure, security operations, cloud technologies, and software engineering.**
 
 ---
 
