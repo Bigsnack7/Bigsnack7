@@ -282,7 +282,7 @@ A simulated enterprise network environment designed to explore network segmentat
 
 ### 🎓 Academic Background
 
-BSc Cybersecurity — In Progress
+BSc Cybersecurity 
 
 ---
 
