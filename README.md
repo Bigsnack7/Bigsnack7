@@ -251,7 +251,7 @@ A simulated enterprise network environment designed to explore network segmentat
 
 ### 🐍 Programming & Automation
 
-`Python` `PowerShell` `JavaScript` `FastAPI` `REST APIs` `Git` `Docker`
+`Python` `PowerShell` `JavaScript`
 
 ### 🔐 Applied Cryptography
 
