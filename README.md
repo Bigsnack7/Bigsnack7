@@ -307,13 +307,13 @@ I'm continuously improving my practical knowledge in:
 
 I'm interested in opportunities across:
 
-- Junior SOC Analyst
+- SOC Analyst L1/L2
 - Cybersecurity Analyst
 - Blue Team Operations
-- Junior Cloud Security Analyst
+- Cloud Security Analyst
 - Identity & Access Management
 - IT Security
-- Junior Systems Administration
+- Systems Administration
 - Security Automation
 
 My long-term direction is to develop into a cybersecurity professional who understands the intersection of **infrastructure, security operations, cloud technologies, and software engineering.**
