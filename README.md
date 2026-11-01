@@ -6,7 +6,7 @@
 
 Building practical security solutions across **SOC Operations, Cloud Security, Identity & Access Management, Network Security, and Security Engineering.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+HEX+WATCH+%7C+AI-Native+SOC+Platform;Azure+%7C+Microsoft+Sentinel+%7C+KQL;Active+Directory+%7C+PowerShell+Automation;Blue+Team+%7C+Cloud+Security;Python+%7C+FastAPI+%7C+Security+Engineering;Learn.+Build.+Test.+Improve." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+HEX+WATCH+%7C+AI-Native+SOC+Platform;Azure+%7C+Microsoft+Sentinel+%7C+KQL;Active+Directory+%7C+PowerShell+Automation;File+Integrity+Monitoring+%7C+Python;Blue+Team+%7C+Cloud+Security;Python+%7C+FastAPI+%7C+Security+Engineering;Learn.+Build.+Test.+Improve." />
 
 <br>
 
@@ -162,7 +162,42 @@ A PowerShell-based Active Directory administration and automation toolkit design
 
 ---
 
-### 🔐 3. HEX WATCH CIPHER
+### 🧾 3. HashGuard
+
+**File Integrity Monitoring | Python | SHA-256 Hashing**
+
+A file integrity monitoring system that uses SHA-256 hashing to detect unauthorized or unexpected changes to files. I contributed to the upstream project [husna-fathima-713/HashGuard](https://github.com/husna-fathima-713/HashGuard), and my changes were reviewed and merged by the maintainer.
+
+**My Contributions (merged upstream):**
+
+- Authentication hardening
+- Scheduled integrity scans
+- Event status tracking
+- Configurable settings
+- Automated tests, including logger and symlink edge cases
+- CI pipeline with GitHub Actions
+
+**Technology:**
+
+`Python` `SHA-256` `GitHub Actions` `Automated Testing`
+
+**What this demonstrates:** File integrity monitoring concepts, secure coding practices, test automation, open-source collaboration, and CI workflows.
+
+<div align="center">
+
+<a href="https://github.com/Bigsnack7/HashGuard">
+<img src="https://img.shields.io/badge/My%20Fork-HashGuard-7C3AED?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/husna-fathima-713/HashGuard">
+<img src="https://img.shields.io/badge/Upstream-HashGuard-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+### 🔐 4. HEX WATCH CIPHER
 
 **Applied Cryptography | Secure Application Development**
 
@@ -202,7 +237,7 @@ Cryptographic operations are designed to run locally in the browser, avoiding th
 
 ---
 
-### 🌐 4. Enterprise Network Security Lab
+### 🌐 5. Enterprise Network Security Lab
 
 **Network Engineering | Infrastructure | Network Security**
 
@@ -235,7 +270,7 @@ A simulated enterprise network environment designed to explore network segmentat
 
 ### 🛡️ Cybersecurity
 
-`Blue Team` `SOC Operations` `Security Monitoring` `Threat Analysis` `Vulnerability Management` `OSINT` `Digital Forensics`
+`Blue Team` `SOC Operations` `Security Monitoring` `Threat Analysis` `File Integrity Monitoring` `Vulnerability Management` `OSINT` `Digital Forensics`
 
 ### ☁️ Cloud Security
 
