@@ -301,6 +301,7 @@ A simulated enterprise network environment designed to explore network segmentat
 - Microsoft SC-900 — Security, Compliance, and Identity Fundamentals
 - CompTIA Security AI+ (SecAI+)
 - CompTIA Security+
+- Microsoft SC-500 -- Cloud and AI Security Engineer Associate.
 
 ### 📜 Completed Training & Learning
 
