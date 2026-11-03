@@ -325,7 +325,7 @@ SCOUT-X is a simulation-based UAV telemetry security system that detects suspici
 
 ### 🐍 Programming & Automation
 
-`Python` `PowerShell` `JavaScript` `FastAPI` 
+`Python` `PowerShell` `JavaScript`  
 ### 🔐 Applied Cryptography
 `AES-256-GCM` `AES-CBC` `HMAC-SHA-256` `RSA-OAEP` `PBKDF2` `HKDF` `Web Crypto API`
 
