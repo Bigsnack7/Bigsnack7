@@ -265,7 +265,46 @@ A simulated enterprise network environment designed to explore network segmentat
 **What this demonstrates:** Enterprise network design, infrastructure configuration, segmentation, and network security concepts.
 
 ---
+### 🛰️ 6. SCOUT-X (UAV Telemetry Security)
 
+**Security Engineering | Python | Applied Cryptography | Open-Source Contribution**
+
+SCOUT-X is a simulation-based UAV telemetry security system that detects suspicious telemetry, scores drone trust, enforces defensive responses, and protects mission data during a simulated compromise. I forked the project from [SCOUT-X-PROJECT/SCOUT-X](https://github.com/SCOUT-X-PROJECT/SCOUT-X) and worked on a security hardening, validation and testing pass across the pipeline.
+
+**My Contributions:**
+
+- Security audit of the codebase, documented in `AUDIT.md`, with findings prioritised by severity
+- Authenticated UDP telemetry with a persistent replay cache and drone-identity checks
+- Geodesic motion and physical-consistency validation of GPS, altitude and speed
+- Fixed ML anomaly detector training contamination and false attack classification at startup
+- Dashboard API-key/session authentication and bounded log reads
+- Sealed mission-data vault so plaintext is not retained after handoff
+- Destination-bound challenge proofs for trusted-peer authentication
+- Rotating JSONL event logging and structured error handling
+- Adversarial test suite covering malformed input, replay, spoofing and dashboard authorization
+- CI pipeline with linting, type checking and automated tests
+
+**Technology:**
+
+`Python` `FastAPI` `UDP` `AES-256-GCM` `HMAC` `scikit-learn` `Pytest` `Ruff` `Mypy` `GitHub Actions`
+
+**What this demonstrates:** Security auditing, secure coding, applied cryptography, threat modelling, adversarial testing, and contributing to a shared codebase.
+
+> SCOUT-X is a simulation and research prototype. It does not integrate with real UAV flight control or radio hardware.
+
+<div align="center">
+
+<a href="https://github.com/Bigsnack7/SCOUT-X">
+<img src="https://img.shields.io/badge/My%20Fork-SCOUT--X-7C3AED?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/SCOUT-X-PROJECT/SCOUT-X">
+<img src="https://img.shields.io/badge/Upstream-SCOUT--X-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
 ## 🧰 Technical Skills & Technologies
 
 ### 🛡️ Cybersecurity
