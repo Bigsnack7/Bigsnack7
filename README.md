@@ -309,7 +309,7 @@ SCOUT-X is a simulation-based UAV telemetry security system that detects suspici
 
 ### 🛡️ Cybersecurity
 
-`Blue Team` `SOC Operations` `Security Monitoring` `Threat Analysis` `File Integrity Monitoring` `Vulnerability Management` `OSINT` `Digital Forensics`
+`Blue Team` `SOC Operations` `Security Monitoring` `Threat Analysis` `File Integrity Monitoring` `Vulnerability Management` `OSINT` `Digital Forensics``Secure Code Review` `Threat Modelling` `Adversarial Testing`
 
 ### ☁️ Cloud Security
 
@@ -325,11 +325,9 @@ SCOUT-X is a simulation-based UAV telemetry security system that detects suspici
 
 ### 🐍 Programming & Automation
 
-`Python` `PowerShell` `JavaScript`
-
+`Python` `PowerShell` `JavaScript` `FastAPI` 
 ### 🔐 Applied Cryptography
-
-`AES-256-GCM` `AES-CBC` `HMAC-SHA-256` `RSA-OAEP` `PBKDF2` `Web Crypto API`
+`AES-256-GCM` `AES-CBC` `HMAC-SHA-256` `RSA-OAEP` `PBKDF2` `HKDF` `Web Crypto API`
 
 ---
 
@@ -358,7 +356,6 @@ SCOUT-X is a simulation-based UAV telemetry security system that detects suspici
 ### 🎓 Academic Background
 
 BSc Cybersecurity 
-
 ---
 
 ## 📈 Current Learning & Development
