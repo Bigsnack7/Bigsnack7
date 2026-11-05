@@ -428,7 +428,7 @@ My long-term direction is to develop into a cybersecurity professional who under
 
 ---
 
-<div align="center">
+<div align="center"> 
 
 ### 🧠 LEARN. BUILD. SECURE. IMPROVE.
 
