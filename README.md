@@ -353,10 +353,6 @@ SCOUT-X is a simulation-based UAV telemetry security system that detects suspici
 - OSINT
 - Dark Web Operations
 
-### 🎓 Academic Background
-
-BSc Cybersecurity 
----
 
 ## 📈 Current Learning & Development
 
