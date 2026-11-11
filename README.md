@@ -166,7 +166,7 @@ Ingest → Detect → Correlate → Investigate → Automate → AI-assist
 | Certification | Level |
 |---|---|
 | Microsoft **SC-900**: Security, Compliance, and Identity Fundamentals | Fundamentals |
-| Microsoft **SC-200**: Security Operations Analyst Associate | Associate |
+| Microsoft **SC-100**: SC-100 Microsoft Cybersecurity Architect |  Expert |
 | CompTIA **Security+**: Core Cybersecurity Certification | Foundation |
 | Microsoft **SC-500**: Cloud and AI Security Engineer Associate | Associate |
 | CompTIA **SecAI+**: Security AI+ Certification | Specialty |
