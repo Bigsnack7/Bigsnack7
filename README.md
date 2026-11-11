@@ -46,7 +46,7 @@ Prove it with working code.
 Learn → Build → Test → Document → Improve
 ```
 
-I don't just study security tools in isolation. I **deploy them, test them, monitor them, and write down what happened.** Every featured project below is something I built myself. My open-source work is listed separately.
+I don’t just study security tools in isolation. I deploy them, test them, monitor them, and document what happened. Every featured project below is a setup I built and ran myself, with the results written up. My open-source work is listed separately.
 
 ---
 
