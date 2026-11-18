@@ -33,7 +33,7 @@
 
 ```text
 > whoami
-oludemi Joshua — Cloud Security Engineer in the making, Blue Teamer at heart
+oludemi Joshua — Cloud Security & Automation Engineer
 
 > mission
 Know the infrastructure.
