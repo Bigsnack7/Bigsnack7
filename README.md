@@ -19,7 +19,7 @@ I build, break, and document practical security systems across cloud, identity, 
 ## Targeting
 
 **SOC Analyst · Cloud Security Analyst · IAM / Security Automation**
-Also open to Security Engineering, Network Security, and IT Security Support roles.
+Also open to Cloud Security Engineering and IT Security Support roles.
 
 ---
 
