@@ -1,217 +1,122 @@
+<div align="center">
+
 # Oludemi Joshua
 
-### Cybersecurity Analyst | Cloud Security | IAM | Security Automation
+**Cybersecurity Analyst · Cloud Security · IAM · Security Automation**
 
-I build and document practical security solutions across cloud infrastructure, 
-identity management, security operations, and network security.
+I build, break, and document practical security systems across cloud, identity, and security operations.
 
-My work focuses on understanding how infrastructure operates, identifying 
-security weaknesses, and developing practical solutions through automation 
-and engineering.
+`AWS` `Azure` `Microsoft Sentinel` `KQL` `Terraform` `Bicep` `PowerShell` `Python` `JavaScript` `React`
 
-**Learn → Build → Test → Document → Improve.**
+**Learn → Build → Test → Document → Improve**
 
----
+</div>
 
-## 🛠️ Technologies & Tools
-
-AWS · Terraform · Azure · Microsoft Sentinel · KQL · Bicep ·
-PowerShell · Python · JavaScript · React
+<!-- Add contact links here, e.g. LinkedIn and email -->
 
 ---
 
-## ⚡ About Me
+## Targeting
 
-I'm a cybersecurity-focused builder with interests spanning:
-
-- Security Operations & Blue Team Engineering
-- Cloud Security & Infrastructure Protection
-- Identity and Access Management (IAM)
-- Network Security & Infrastructure
-- Detection Engineering & Security Monitoring
-- Security Automation & Infrastructure as Code
-
-I believe practical cybersecurity skills come from building, testing, 
-investigating, and documenting real implementations.
-
-I focus on demonstrating what works, documenting limitations, 
-and continuously improving my engineering approach.
+**SOC Analyst · Cloud Security Analyst · IAM / Security Automation**
+Also open to Security Engineering, Network Security, and IT Security Support roles.
 
 ---
 
-## 🚀 Featured Projects
+## Featured projects
 
-### ☁️ [Terraform AWS Honeypot Lab](https://github.com/Bigsnack7/Terraform-Honeypot_Lab)
-**AWS · Terraform · CloudWatch · IAM · GitHub Actions**
+### ☁️ [Azure Honeypot & SOC Lab (V2)](https://github.com/Bigsnack7/Honeypot-SOC_Lab.V2)
+`Azure` `Microsoft Sentinel` `Bicep` `KQL` `Logic Apps` `GitHub Actions`
 
-An infrastructure-as-code security lab deploying isolated Linux, 
-Windows, and web honeypots.
+A SOC lab defined entirely as code. Three internet-facing decoys (Windows RDP, Cowrie SSH, web) feed Microsoft Sentinel, which runs MITRE-mapped detections, threat-intel enrichment, and an automated SOAR playbook.
 
-- Three decoy environments: Cowrie SSH, Flask Web, and Windows RDP.
-- Centralized CloudWatch logging and CloudTrail audit trails.
-- Windows Security and Sysmon telemetry collection.
-- Nine version-controlled CloudWatch Logs Insights investigation queries.
-- GitHub Actions CI/CD using OIDC authentication.
-- Separate infrastructure plan, apply, and destroy workflows.
-- Terraform remote state protection and deployment safeguards.
+- Isolated VNet with outbound internet denied, so a compromised decoy can't attack anything else.
+- Pipeline-health rules, added after a real three-day silent outage went undetected.
+- Sentinel workbook with a MITRE heat map and attack geo map.
 
-**Status:** Deployed development environment with documented 
-runtime evidence for Linux, web, and Windows telemetry. 
-Additional detection-query and Windows event validation remains ongoing.
+### 🪟 [Active Directory Automation Toolkit](https://github.com/Bigsnack7/AD_PS-automation) ⭐ 20
+`PowerShell` `Active Directory` `Audit logging`
 
-### 🪟 Active Directory Automation Toolkit
-**PowerShell · Windows Server · Active Directory**
+Guarded automation for AD provisioning, user lifecycle, and security reporting, built as the `ADAutoX` module.
 
-A PowerShell toolkit for automating Active Directory administration 
-and identity lifecycle operations.
+- Preflight, provision, verify, and report stages for bulk department provisioning.
+- `-WhatIf` previews, destructive-operation gates, protected-account checks, and rollback.
+- JSONL audit trail plus locked-out, inactive, and password-never-expires scans.
+- Offline test suite and manual evidence from a Windows Server lab.
 
-- User provisioning and lifecycle management.
-- Organizational Unit and departmental administration.
-- Role-based administrative separation.
-- Operation logging and audit reporting.
-- CSV and JSONL reporting.
-- Confirmation safeguards and controlled destructive operations.
+### 🛰️ [Terraform AWS Honeypot Lab](https://github.com/Bigsnack7/Terraform-Honeypot_Lab)
+`AWS` `Terraform` `CloudWatch` `GitHub Actions (OIDC)`
 
-**Status:** Built and tested in a Windows Server lab.
+Isolated Linux (Cowrie), web (Flask), and Windows RDP honeypots deployed with Terraform, with CloudWatch and CloudTrail logging, Sysmon telemetry, and nine version-controlled Logs Insights investigation queries. Separate plan, apply, and destroy workflows with remote state protection.
+
+**Status:** deployed dev environment with runtime evidence for Linux, web, and Windows telemetry. Detection-query and Windows event validation is ongoing.
 
 ### 🔐 [HEX WATCH CIPHER](https://github.com/Bigsnack7/hex-watch-cipher)
-**JavaScript · Web Crypto API · Cryptography**
+`JavaScript` `Web Crypto API`
 
-A client-side encryption application designed to protect messages 
-and files directly in the browser.
+Client-side file and message encryption in the browser: AES-256-GCM, RSA-OAEP hybrid encryption, PBKDF2 key derivation, and HMAC integrity checks, with no backend uploads.
 
-- AES-256-GCM encryption.
-- RSA-OAEP hybrid encryption.
-- PBKDF2 key derivation.
-- HMAC integrity verification.
-- Client-side processing without backend file uploads.
+<details>
+<summary><b>🌐 Enterprise Network Security Lab</b> (Cisco Packet Tracer)</summary>
 
-### 🌐 Enterprise Network Security Lab
-**Cisco Packet Tracer · Networking · Network Security**
+<br>
 
-An enterprise network simulation focused on infrastructure 
-design, segmentation, redundancy, and network security.
+Enterprise network simulation covering VLANs and inter-VLAN routing, OSPF, HSRP redundancy, ACLs and segmentation, EtherChannel, Spanning Tree, DHCP relay, NAT, and wireless.
 
-- VLANs and inter-VLAN routing.
-- OSPF routing.
-- HSRP redundancy.
-- ACLs and network segmentation.
-- EtherChannel and Spanning Tree.
-- DHCP relay, NAT, and wireless networking.
+</details>
 
 ---
 
-## 🤝 Open-Source Contributions
+## Currently building
 
-### HashGuard
-**Python · SHA-256 · CI**
+### HEX WATCH: AI-native SOC platform
+**Ingestion → Detection → Correlation → Investigation → Automation → AI assistance**
 
-Contributed security and reliability improvements to a file integrity 
-monitoring application.
+A security operations platform covering the full investigation lifecycle: event ingestion, detection and alert correlation, incident management, investigation workflows, automation, and AI-assisted analysis.
 
-- Authentication hardening.
-- Scheduled integrity scans.
-- Event status tracking.
-- Automated tests and CI improvements.
+`Python` `FastAPI` `React` `Redis` `Rust` `C++` `WebSockets` `LangGraph` `Redpanda`
 
-### SCOUT-X
-**Python · FastAPI · Cryptography**
-
-Contributed security improvements to an authenticated telemetry platform.
-
-- Telemetry authentication.
-- Replay protection.
-- Input and GPS consistency validation.
-- Dashboard authentication.
-- Adversarial testing and CI improvements.
+**Status:** active development.
 
 ---
 
-## 🔭 Currently Building
+## Open-source contributions
 
-### HEX WATCH — AI-Native SOC Platform
-
-An evolving security operations platform designed to support 
-the security investigation lifecycle.
-
-**Ingestion → Detection → Correlation → Investigation → Automation → AI Assistance**
-
-Current development areas:
-
-- Security event ingestion.
-- Threat detection and alert correlation.
-- Incident management.
-- Investigation workflows.
-- Security automation.
-- AI-assisted security analysis.
-
-**Technologies:** Python · FastAPI · React · Redis · Rust · 
-C++ · WebSockets · LangGraph · Redpanda
-
-**Status:** Active development.
-
----
-
-## 🧰 Technical Skills
-
-| Domain | Technologies |
+| Project | Contribution |
 |---|---|
-| Security Operations | Blue Team, SOC Operations, Security Monitoring |
-| Cloud Security | AWS, Azure, Microsoft Sentinel |
-| Infrastructure as Code | Terraform, Bicep |
-| Detection & Investigation | KQL, CloudWatch Logs Insights |
-| Identity & Access Management | Active Directory, IAM, PowerShell |
-| Networking | TCP/IP, VLANs, OSPF, HSRP, ACLs, NAT |
-| Automation & Development | Python, PowerShell, JavaScript, FastAPI |
-| Cryptography | AES-GCM, RSA-OAEP, HMAC, PBKDF2 |
-| CI/CD | GitHub Actions, OIDC |
+| **HashGuard** (Python, file integrity monitoring) | Authentication hardening, scheduled integrity scans, event status tracking, automated tests, CI improvements |
+| **SCOUT-X** (Python, FastAPI, authenticated telemetry) | Telemetry authentication, replay protection, input and GPS consistency validation, dashboard authentication, adversarial testing, CI improvements |
 
 ---
 
-## 📚 Certifications & Professional Development
+## Skills
 
-### Certification Roadmap
-
-| Certification | Focus |
+| Domain | Tools & concepts |
 |---|---|
-| Microsoft SC-900 | Security, Compliance & Identity Fundamentals |
-| Microsoft SC-300 | Identity & Access Administration |
-| HashiCorp Terraform Associate (004) | Infrastructure as Code |
-| Microsoft SC-500 | Cloud & AI Security Engineering |
-
-### Completed Training & Certifications
-
-- Centri Blue Team Junior Analyst
-- Cisco Python Essentials 1
-- Cisco Networking Basics
-- Ethical Hacking Essentials
-- Vulnerability Management
-- Threat Hunting
-- Digital Forensics
-- OSINT
+| **Security operations** | Blue team, SOC operations, detection engineering, MITRE ATT&CK mapping |
+| **Cloud security** | AWS, Azure, Microsoft Sentinel |
+| **Detection & investigation** | KQL, CloudWatch Logs Insights |
+| **Infrastructure as code** | Terraform, Bicep, GitHub Actions (OIDC) |
+| **Identity & access** | Active Directory, IAM, PowerShell |
+| **Networking** | TCP/IP, VLANs, OSPF, HSRP, ACLs, NAT |
+| **Development** | Python, PowerShell, JavaScript, FastAPI |
+| **Cryptography** | AES-GCM, RSA-OAEP, HMAC, PBKDF2 |
 
 ---
 
-## 🎯 Career Interests
+## Certifications & training
 
-Open to opportunities in:
+**Roadmap:** Microsoft SC-900 → SC-300 → HashiCorp Terraform Associate (004) → Microsoft SC-500
 
-- SOC Analysis
-- Cybersecurity Analysis
-- Cloud Security
-- Identity & Access Management
-- Security Engineering
-- Network Security
-- Security Automation
-- IT Security Support
-
-Interested in collaborating on practical security engineering 
-projects and contributing to open-source security initiatives.
+**Completed training:** Centri Blue Team Junior Analyst · Cisco Python Essentials 1 · Cisco Networking Basics · Ethical Hacking Essentials · Vulnerability Management · Threat Hunting · Digital Forensics · OSINT
 
 ---
 
-## 📊 GitHub
+<div align="center">
+
+I demonstrate what works, document the limits, and keep improving.
+Open to collaborating on practical security engineering and open-source security projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-BigSnack7-181717?style=for-the-badge&logo=github)](https://github.com/Bigsnack7)
 
-**Learn. Build. Secure. Improve.**
+</div>
