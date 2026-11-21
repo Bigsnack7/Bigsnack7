@@ -6,7 +6,7 @@
 
 I build, break, and document practical security systems across cloud, identity, and security operations.
 
-`AWS` `Azure` `Microsoft Sentinel` `KQL` `Terraform` `Bicep` `PowerShell` `Python` `JavaScript` `React`
+`AWS` `Azure` `Terraform` `Bicep` `PowerShell` `Python` `JavaScript`
 
 **Learn → Build → Test → Document → Improve**
 
@@ -34,7 +34,7 @@ A SOC lab defined entirely as code. Three internet-facing decoys (Windows RDP, C
 - Pipeline-health rules, added after a real three-day silent outage went undetected.
 - Sentinel workbook with a MITRE heat map and attack geo map.
 
-### 🪟 [Active Directory Automation Toolkit](https://github.com/Bigsnack7/AD_PS-automation) ⭐ 20
+### 🪟 [Active Directory Automation Toolkit](https://github.com/Bigsnack7/AD_PS-automation) 
 `PowerShell` `Active Directory` `Audit logging`
 
 Guarded automation for AD provisioning, user lifecycle, and security reporting, built as the `ADAutoX` module.
